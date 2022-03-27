@@ -1,0 +1,36 @@
+state={
+	id=43
+	name="STATE_43" 
+	manpower = 3750752
+	state_category = large_city
+	
+	resources={
+		steel=3 
+		aluminium=100 
+	}
+
+	history={
+		owner = AUS
+		add_core_of = HUN
+		victory_points = {
+			3548 1 
+		}
+		victory_points = {
+			3581 3
+		}
+		victory_points = {
+			6573 1 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+
+	provinces={
+		555 581 730 746 3537 3548 3550 3565 3581 3713 3730 3731 3743 6571 6573 6586 6604 6735 6751 9563 9690 9706 9537 11520 11536 11691 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,19 @@
+state={
+	id=70
+	name="STATE_70"
+	manpower = 13000
+	state_category = city
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+
+	provinces={
+		7900 
+	}
+	local_supplies=3.0 
+}

@@ -1,0 +1,22 @@
+state={
+	id=80
+	name="STATE_80"
+	manpower = 474600
+	state_category = rural
+	
+	history={
+		owner = AUS
+		victory_points = {
+			577 1 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+	
+	provinces={
+		577 6761 6584 9548 11689
+	}
+	local_supplies=0.0 
+}

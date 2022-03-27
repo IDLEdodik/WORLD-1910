@@ -1,0 +1,18 @@
+state={
+	id=73
+	name="STATE_73"
+	manpower = 13
+	state_category = rural
+	
+	history={
+		owner = CHL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		8198
+	}
+	local_supplies=0.0 
+}

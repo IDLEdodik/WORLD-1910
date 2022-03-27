@@ -1,0 +1,18 @@
+state={
+	id=69
+	name="STATE_69"
+	manpower = 133
+	state_category = town
+	
+	history={
+		owner = CHL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		10961 	
+	}
+	local_supplies=0.0 
+}

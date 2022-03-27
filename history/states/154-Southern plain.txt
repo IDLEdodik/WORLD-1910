@@ -1,0 +1,19 @@
+state = {
+	id=154
+	name="STATE_154"
+	manpower = 13
+	state_category = city
+
+	history = {
+		owner = CHL
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+
+	provinces={
+		5159
+	}
+	local_supplies=12 
+}

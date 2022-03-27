@@ -1,0 +1,22 @@
+state={
+	id=109
+	name="STATE_109" 
+	manpower = 2224400
+	state_category = large_town
+
+	history={
+		owner = AUS
+		victory_points = {
+			11581 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+	}
+
+	provinces={
+		591 624 984 3592 3596 3601 3609 3627 6611 6647 9595 9611 11564 11577 11580 11581 11586 11594
+	}
+	local_supplies=0.0 
+}

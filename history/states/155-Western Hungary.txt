@@ -1,0 +1,32 @@
+state={
+	id=155
+	name="STATE_155"
+	manpower = 2197605
+	state_category = city
+	
+	resources={
+		oil = 1 
+	}
+	
+	history={
+		owner = AUS
+		add_core_of = HUN
+		victory_points = {
+			9692 10
+		}
+		victory_points = {
+			11539 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 3
+		}
+	}
+
+	provinces={
+		541 686 701 3484 3670 3683 3716 6561 6672 6720 9539 9551 9676 9692 11554 11627 11663 11679 13125 11522 11539
+	}
+	local_supplies=0.0 
+}
