@@ -1,29 +1,25 @@
 state={
 	id=45
 	name="STATE_45"
-	manpower = 838621
-	state_category = town
 
 	history={
-		owner = AUS
-		add_core_of = HUN
-		victory_points = { 
-			619 3 
-		}
-		victory_points = {
-			9660 20 
-		}
-		victory_points = {
-			11610 5 
-		}
+		victory_points = { 619 3 }
+		owner = YUG
 		buildings = {
 			infrastructure = 3
+
 		}
+		add_core_of = YUG
+		add_core_of = SER
+
 	}
 
 	provinces={
-		619 682 684 699 716 3617 3623 3680 6670 6685 6700 6703 6716 9608 9624 9643 9660 9621 11610 11625
+		619 3617 3623 9608 9621
 	}
+	manpower=838621
 	buildings_max_level_factor=1.000
+	state_category=town
+
 	local_supplies=0.0 
 }

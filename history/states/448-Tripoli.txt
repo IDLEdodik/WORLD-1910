@@ -1,12 +1,14 @@
+
 state={
 	id=448
 	name="STATE_448"
 	manpower = 469136
+	
 	state_category = town
 
 	history={
-		owner = TUR
-		add_core_of = LBA
+		owner = ITA
+		
 		victory_points = {
 			1149 10 
 		}
@@ -17,10 +19,12 @@ state={
 				naval_base = 5
 			}
 		}
+		add_core_of = LBA
 	}
 
 	provinces={
 		1118 1149 1189 4194 7066 7209 9980 12039 
 	}
+
 	local_supplies=0.0 
 }

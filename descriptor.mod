@@ -1,10 +1,9 @@
-version="1.11.*"
+version="0.1"
 tags={
 	"Alternative History"
-	"National Focuses"
-	"Technologies"
+	"Historical"
 	"Ideologies"
+	"Map"
 }
-name="WORLD 1910"
-supported_version="1.11.4"
-replace_path="history/units"
+name="world 1910"
+supported_version="1.11.11"
